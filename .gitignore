@@ -130,3 +130,10 @@ $RECYCLE.BIN/
 
 # Winmerge backups
 *.bak
+# IDE / User config
+.idea/
+.vscode/
+.claude/
+
+# Arbeitsdokument
+COMMIT_PLAN.md
